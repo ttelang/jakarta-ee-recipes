@@ -1,5 +1,5 @@
 
-package org.jakartaeerecipes.chapter01.recipe01_01;
+package org.jakartaeerecipes.chapter01.recipe01_02;
 
 import java.io.IOException;
 import java.io.PrintWriter;
